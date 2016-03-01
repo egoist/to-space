@@ -1,6 +1,6 @@
 {
   "name": "to-space",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert leading tab to spaces.",
   "license": "MIT",
   "repository": "egoist/to-space",
