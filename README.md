@@ -11,9 +11,9 @@ $ npm install --save to-space
 ## Usage
 
 ```js
-const toSpace = require('to-space');
+const toSpace = require('to-space')
 
-toSpace(`\tHI\n\tTHERE`);
+toSpace(`\tHI\n\tTHERE`)
 /* convert to 2 spaces:
   HI
   THERE
